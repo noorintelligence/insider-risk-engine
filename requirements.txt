@@ -1,0 +1,4 @@
+duckdb>=0.10.0
+pandas>=2.0.0
+jsonschema>=4.20.0
+pytest>=8.0.0
